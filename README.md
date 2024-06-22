@@ -12,8 +12,7 @@ This project implements an algorithm to optimize delivery routes for a mailing c
 ## Installation and Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mo-austin/delivery-route-optimization.git
-   cd delivery-route-optimization
+   git clone https://github.com/mo-austin/delivery-route-optimization.git cd delivery-route-optimization
 2. Run main script:
    ```sh
    python main.py
