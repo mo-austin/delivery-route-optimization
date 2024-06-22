@@ -27,13 +27,13 @@ Your input should include the following parameters:
 5. end: The destination city.
 
 ## Example Input Format
-  ```
-  numCities = 5
-  capacities = ["0,3,100", "0,1,15", "0,2,100", "1,3,15", "2,3,100"]
-  loads = ["0,3,100", "0,1,10", "0,2,60", "1,3,10", "2,3,60"]
-  start = 0
-  end = 4
-
+```sh
+numCities = 5
+capacities = ["0,1,10", "1,2,20", "0,2,15", "2,3,10", "3,4,5"]
+loads = ["0,1,5", "1,2,10", "0,2,7", "2,3,5", "3,4,2"]
+start = 0
+end = 4
+   
 
 
 
